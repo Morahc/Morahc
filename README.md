@@ -33,6 +33,7 @@ Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Morahc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" /></a> <a href="https://www.linkedin.com/in/morah-stephen-74a3b7212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" /></a> <a href="https://www.twitter.com/stephen_morah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
