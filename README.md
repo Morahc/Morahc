@@ -6,8 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [morahstephen872@gmail.com](mailto:morahstephen872@gmail.com)
-* 🧠  I'm learning Next js
-* 🔭  I’m currently interning at Learnable - Genesis Tech Hub
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
